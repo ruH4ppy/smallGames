@@ -1,0 +1,11 @@
+toDoList
+
+
+- add health bar
+- enemy can hit player
+- enemy runs at the player
+- player blinks on taking damage
+- player has I frames during blinking
+
+
+-fix:  player moves ca. double the speed diagonal
